@@ -13,7 +13,7 @@ disqusShortname = ""
 [params]
 
   # Provide your metadata here.
-  name = "Viktor Farcic"
+  name = "GEORGI BULANOV"
   description = "Books and courses dedicated to DevOps practices and tools"
 
   # Link custom assets relative to /static
@@ -47,7 +47,7 @@ disqusShortname = ""
     # To change the background image on the homepage banner, replace 'banner.jpg' in
     # the 'static/img' folder.
     title = "The DevOps Toolkit Series"
-    subtitle = "Where DevOps becomes practice"
+    subtitle = "Where DevOps becomes practice GBULANOV  TEST"
     buttonText = "Get Started"
 
 
