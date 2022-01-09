@@ -9,7 +9,7 @@ spec:
   - argo-combined-app
   hosts:
   - argo-combined-app.local
-  - acme.com
+  - a2fba447a6ed946f5be6cc59bf7c3676-1036994651.eu-west-2.elb.amazonaws.com
   http:
   - name: primary
     route:
